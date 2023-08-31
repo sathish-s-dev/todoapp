@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"title": "Learn HTML",
+		"status": "active"
+	},
+	{
+		"id": 2,
+		"title": "Learn CSS",
+		"status": "active"
+	},
+	{
+		"id": 3,
+		"title": "Learn Javascript",
+		"status": "active"
+	},
+	{
+		"id": 4,
+		"title": "Learn React js",
+		"status": "completed"
+	},
+	{
+		"id": 5,
+		"title": "Learn Redux toolkit",
+		"status": "active"
+	},
+	{
+		"id": 6,
+		"title": "Learn Jest",
+		"status": "active"
+	},
+	{
+		"id": 7,
+		"title": "Learn Next js",
+		"status": "active"
+	}
+]

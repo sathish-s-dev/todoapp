@@ -1,0 +1,24 @@
+.logo{
+  height: 6em;
+  padding: 1em;
+}
+
+header{
+  width: 100%;
+  min-height: 100px;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  box-shadow: 1px 1px 5px rgba(198, 198, 198, 0.359);
+  padding-inline: 2rem;
+}
+header nav{
+  display: flex;
+  gap: 1.5rem
+}
+header a{
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 50%;
+  border: 1px solid gray;
+  padding: 4rem;
+  text-align: center;
+
+}
+
+main{
+  display: flex;
+  justify-content: center;
+}
+
+form label{
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+input{
+  width: 100%;
+  accent-color: rgb(85, 255, 85);
+}
